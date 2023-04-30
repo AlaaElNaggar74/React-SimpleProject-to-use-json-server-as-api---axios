@@ -1,0 +1,8 @@
+
+
+.navv .navbar .navbar-brand,
+.navv .navbar .navbar-nav .nav-item .nav-link,
+.navv .navbar .navbar-nav .nav-item .nav-link.active
+{
+font-size: 1.5rem;
+}
