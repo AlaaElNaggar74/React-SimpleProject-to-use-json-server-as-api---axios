@@ -1,3 +1,14 @@
+
+
+
+Simple app as introduction to use json server as api to add and delet products and view product details ,and also use axios and react router
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
